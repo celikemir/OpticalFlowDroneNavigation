@@ -60,6 +60,21 @@ git clone https://github.com/celikemir/OpticalFlowDroneNavigation.git
 
 ## Support
 
+### How to Get Help
+If you need assistance with the app, please:
+
+1. **Check Common Issues**
+   - Camera not working: Make sure you've granted camera permissions
+   - Speed not showing: Ensure location services are enabled
+   - MAVLink connection issues: Verify your drone is in range
+
+2. **Report Problems**
+   - Open a new issue on GitHub
+   - Include your device model and iOS version
+   - Describe what you were doing when the problem occurred
+   - Add screenshots if possible
+
+
 ### Bug Reports
 If you encounter any issues, please:
 1. Check the [Issues](https://github.com/celikemir/OpticalFlowDroneNavigation/issues) section

@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Email Support
+    url: 
+    about: Please email us for direct support
+  - name: Documentation
+    url: https://github.com/celikemir/OpticalFlowDroneNavigation#readme
+    about: Check our documentation for common issues
